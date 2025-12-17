@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "アニマルカーニバル",
+  "base_artist": "かな・みき from AIKATSU☆STARS!",
+  "createdAt": "2025-12-17T20:16:23.477782Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アニマルカーニバル",
+      "artist": "かな・みき from AIKATSU☆STARS!",
+      "has_synced": true,
+      "path": "select/01_アニマルカーニバル_かな・みき_from_AIKATSU☆STARS!.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アニマルカーニバル",
+      "artist": "AIKATSU☆STARS!",
+      "has_synced": true,
+      "path": "select/02_アニマルカーニバル_AIKATSU☆STARS!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アニマルカーニバル (Off Vocal)",
+      "artist": "かな・みき from AIKATSU☆STARS!",
+      "has_synced": true,
+      "path": "select/03_アニマルカーニバル_(Off_Vocal)_かな・みき_from_AIKATSU☆STARS!.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アニマルカーニバル",
+      "artist": "かな・みき from AIKATSU☆STARS!",
+      "has_synced": false,
+      "path": "select/pl_01_アニマルカーニバル_かな・みき_from_AIKATSU☆STARS!.txt"
+    }
+  ]
+}
